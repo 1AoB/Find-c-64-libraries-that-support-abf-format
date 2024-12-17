@@ -18,7 +18,7 @@ This is a 32-bit C # library, which is clearly not what we need.
 
 4. [https://github.com/yamad/libabf](https://github.com/yamad/libabf)
 
-This library has no documentation or examples, making it difficult to develop. Based on the current progress, it can read the total number of data points. As for how to read and write, I don't know the API, it's difficult
+This library has no documentation or examples, making it difficult to develop. Based on the current progress, it can read the total number of data points. As for how to read and write specific data, I don't know the API, it's difficult.
 
 5. 
 
