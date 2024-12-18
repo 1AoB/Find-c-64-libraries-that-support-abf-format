@@ -10,6 +10,7 @@ Looking for a C++64 library that could completely replace pyabf, I tried to filt
 1. [https://sourceforge.net/projects/libaxon/](https://sourceforge.net/projects/libaxon/)
 
 I found that he could read some attributes of the abf file, but could not read the data correctly:
+![image](https://github.com/user-attachments/assets/d7204b6d-3bd8-4fa8-9a87-70373c9ed833)
 
 
 [Bottleneck, can't find out how to read and write data in abf]
