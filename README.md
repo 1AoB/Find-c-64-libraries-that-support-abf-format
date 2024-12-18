@@ -26,6 +26,11 @@ This library has no documentation or examples, making it difficult to develop. B
 
 5. [https://github.com/ogdenkev/abfutil](https://github.com/ogdenkev/abfutil)
 
-a glimmer of light
+a glimmer of light, but it provides abffio.dll or ABFFIO.DLL are 32-bit, and 64-bit systems are incompatible! This is disappointing!
+
+However, it seems to provide source code, I will try to use them in 64-bit systems.
+
+There are other things to do now...
+see you this afternoon.
 
 6. 
