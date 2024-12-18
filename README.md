@@ -9,9 +9,10 @@ Looking for a C++64 library that could completely replace pyabf, I tried to filt
 
 1. [https://sourceforge.net/projects/libaxon/](https://sourceforge.net/projects/libaxon/)
 
-我发现他可以读取到abf文件的一些属性,但是无法正确读取到数据:
+I found that he could read some attributes of the abf file, but could not read the data correctly:
 
 
+[Bottleneck, can't find out how to read and write data in abf]
 
 2. [https://github.com/swharden/ABF-SDK](https://github.com/swharden/ABF-SDK)
 
